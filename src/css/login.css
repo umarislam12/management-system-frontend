@@ -1,0 +1,35 @@
+.mainDiv{
+    flex-direction: column;  
+    display: flex;
+    justify-content: center;
+}
+.header{
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    background: rgb(108, 186,210)
+}
+.header_title{
+    color: white;
+    align-self: center;
+    font-size: 4vh;
+    font-family: Helvetica
+}
+.forgot_password{
+    color: black;
+    align-self: center;
+    font-size: 1.5vh;
+    font-family: Helvetica
+}
+.formDiv{
+    max-width: 256px;
+    margin:0 auto;
+    padding: 20px;
+    text-align: center;
+}
+.formDiv_button {
+    color: white;
+    align-self: center;
+    font-size: 2vh;
+    font-family: Helvetica
+}
